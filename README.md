@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Nijhawan</h1>
-<h3 align="center">Hi, I'm Sanket. I'm studying Computer Science and Engineering (CSE) at Bennett University. I know how to code in C++ and enjoy working with this language. I'm always excited to learn new things and explore different technologies. I believe that trying new things helps me grow, and I'm eager to keep expanding my skills</h3>
+<h3 align="center">Hi, I'm Sanket. I'm studying Computer Science and Engineering (CSE) at Bennett University. I know how to code in C++ and enjoy working with this language. I'm always excited to learn new things and explore different technologies. I believe that trying new things helps me grow, and I'm eager to keep expanding my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketnijhawan&label=Profile%20views&color=0e75b6&style=flat" alt="sanketnijhawan" /> </p>
 
