@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanket_nijhawan" target="blank"><img src="https://img.shields.io/twitter/follow/sanket_nijhawan?logo=twitter&style=for-the-badge" alt="sanket_nijhawan" /></a> </p>
 
-- 🔭 I’m currently working on **Earth**
+- 🔭 I’m currently working on **App Development**
 
 - 🌱 I’m currently learning **C++, Flutter, Web Development**
 
