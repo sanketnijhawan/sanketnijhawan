@@ -13,7 +13,7 @@
 
 - Portfolio: [https://sanketnijhawan.me/](https://sanketnijhawan.me/)
 
-- 💬 Ask me about **C++, Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **sanketnijhawan413@gmail.com**
 
