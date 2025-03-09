@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some projects.**
 
-- 🌱 I’m currently learning **C++, Flutter, Web Development**
+- 🌱 I’m currently learning ** Flutter, Web Development**
 
 - Portfolio: [https://sanketnijhawan.me/](https://sanketnijhawan.me/)
 
